@@ -1,0 +1,23 @@
+.carousel-item{
+    height: 500px;
+    object-fit: cover;   
+}
+.carousel-caption{
+    color:#000;
+    background-color: #a4c6cf66;
+}
+.btn {
+ color: #000;
+ background-color: lightpink;
+}
+.image-card{
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.img{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
